@@ -1,11 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Space+Grotesk:wght@300..700&display=swap');
-
 html, body {
-	background-color: black;
 	color: white;
+	font-family: Monospace;
+	text-align: center;
+	margin: 0 15%;
+	width: 75%;
+	border: 2px solid blue;
 }
 
-header {
-	text-align: center;
-	font-family: Orbitron;
+h1 {
+	background-color: light gray;
+	margin-top: 20px;
+	padding: 0;
+}
+
+h2 {
+	background-color: light gray;
+	font-style: italic;
+	margin: 0;
+	padding: 0;
 }

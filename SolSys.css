@@ -2,12 +2,10 @@
 
 html, body {
 	background-color: black;
-	display: block;
-	margin: auto;
+	color: white;
 }
 
 header {
-	color: white;
 	text-align: center;
 	font-family: Orbitron;
 }
